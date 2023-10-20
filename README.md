@@ -26,15 +26,9 @@ React folder structure is a project that focuses on organizing files and folders
 
 - [💻 Stack](#stack)
 
-- [⚙️ Setting Up](#setting-up)
-
 - [🚀 Run Locally](#run-locally)
 
 - [🙌 Contributors](#contributors)
-
-- [☁️ Deploy](#deploy)
-
-- [📄 License](#license)
 
 ## 📁 Project Structure
 
@@ -56,7 +50,10 @@ React folder structure is a project that focuses on organizing files and folders
 │   │   ├── orders-api.ts
 │   │   └── users-api.ts
 │   ├── assets
-│   │   └── react.svg
+│   │   ├── images
+│   │   ├── fonts
+│   │   ├── icons
+│   │   ├── illustrations
 │   ├── components
 │   │   ├── Button
 │   │   │   ├── Button.stories.tsx
@@ -106,14 +103,7 @@ Note: The "public" directory is not included as it typically contains static fil
 ## 💻 Stack
 
 Include a concise explanation about the Tech Stack employed.
-
-## ⚙️ Setting Up
-
-#### Your Environment Variable
-
-- Step 1
-
-- Step 2
+React & Vite
 
 ## 🚀 Run Locally
 
@@ -126,13 +116,13 @@ git clone https://github.com/abdulsamadayoade/react-folder-structure
 2.Install the dependencies with one of the package managers listed below:
 
 ```sh
-Insert INSTALL commands
+npm install
 ```
 
 3.Start the development mode:
 
 ```sh
-Insert RUN commands
+npm run dev
 ```
 
 ## 🙌 Contributors
@@ -140,11 +130,3 @@ Insert RUN commands
 <a href="https://github.com/abdulsamadayoade/react-folder-structure/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=abdulsamadayoade/react-folder-structure" />
 </a>
-
-## ☁️ Deploy
-
-`[Application name](Your App URL)`
-
-## 📄 License
-
-[**Add Your License**](https://choosealicense.com)
