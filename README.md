@@ -1,10 +1,4 @@
 <p align="center">
-<a href=https://github.com/abdulsamadayoade/react-folder-structure target="_blank">
-<img src='/placeholder.jpg' width="100%" alt="Banner" />
-</a>
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/github/languages/code-size/abdulsamadayoade/react-folder-structure" alt="GitHub code size in bytes" />
 <img src="https://img.shields.io/github/last-commit/abdulsamadayoade/react-folder-structure" alt="GitHub last commit" />
 <img src="https://img.shields.io/github/commit-activity/m/abdulsamadayoade/react-folder-structure" alt="GitHub commit activity month" />
